@@ -1,0 +1,38 @@
+th{
+    border: 2px red solid;
+    background-color:wheat;
+    text-align: center;
+    font-style: italic;
+    padding: 35px 35px;
+    font-size: 30px;
+}
+
+.Color {
+    border: 2px black dotted;
+    background-color: lightblue;
+    color: darkred;
+    font-style: oblique;
+    font-size: 30px;
+    text-align:left;
+    padding: 50px 70px;
+    text-decoration: underline
+}
+
+a:link {
+    color:crimson
+}
+a:visited {
+    color: darkmagenta
+}
+a:active {
+    color:green
+}
+a:hover {
+    cursor: grabbing;
+}
+td {
+    background-color: aliceblue;
+}
+caption{
+    font-size: 30px;
+}
